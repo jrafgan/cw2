@@ -1,0 +1,29 @@
+@media screen and (min-width: 760px){
+	.nav-btn{
+		display: none;
+	}
+	.main-nav ul{
+		position: static;
+		padding: 0;
+		background: transparent;
+		float: right;
+		width: 472px;
+		font-size: 26px;
+		margin-top: 51px;
+	}
+	.main-nav li{
+		display: inline-block;
+	}
+	.main-nav a{
+		display: inline-block;
+		border: none;
+		font-size: 16px;
+		padding: 0 12px 0 0;
+	}
+	.logo{
+		margin: 47px 0 0 40px;
+	}
+}
+@media screen and (min-width: 1171px){
+
+}
